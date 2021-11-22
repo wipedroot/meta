@@ -5,7 +5,7 @@ A WIP attempt at blogging
 
 ### I'LL BITE, replied the lost engineer
 
-![wellknown spot for nature addicts(jambench.png)
+![wellknown spot for nature addicts](jambench.png)
 
 **so what is this**
 
