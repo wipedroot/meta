@@ -3,7 +3,7 @@ A WIP attempt at blogging
 
  HELLO STRANGER, said the lazy fox
 ----------------------------------------
-This journey is only possible thanks to the OSS community that has been holding the torch of knowledge since before we stood on two feet
+This journey is only possible thanks to the OSS community that has been holding the torch of knowledge since before we stood on our two feet
 
 sources used for this project:
 
