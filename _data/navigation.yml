@@ -1,6 +1,11 @@
 - title: Home
   url: /
+
+- title: The Pod
+  url: /The Pod/
+
 - title: About
-  url: /about/
+  url: /about.md
+
 - title: Archive
   url: /archive/
