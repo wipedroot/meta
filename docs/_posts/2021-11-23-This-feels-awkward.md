@@ -2,7 +2,7 @@
 
 
 **so what is this**
-![well known spot for nature addicts](cover.png)
+<img>![well known spot for nature addicts](cover.png)
 
 <mark> <strong> IS THIS WHAT I THINK IT IS </strong> </mark>
 
