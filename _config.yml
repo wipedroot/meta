@@ -1,4 +1,7 @@
-theme: jekyll-theme-hydure
+remote_theme: zivong/jekyll-theme-hydure
+plugins:
+ - jekyll-remote-theme
+
 title: Yetanothr
 author: CaptainTuesday
 email: CaptainTuesday@protonmail.com

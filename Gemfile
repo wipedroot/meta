@@ -1,1 +1,1 @@
-gem "jekyll-theme-hydure"
+gem "jekyll-remote-theme"
