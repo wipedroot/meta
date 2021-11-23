@@ -1,14 +1,18 @@
-remote_theme: zivong/jekyll-theme-hydure
-plugins:
- - jekyll-remote-theme
-
 title: Yetanothr
-author: CaptainTuesday
+author:
+name: CaptainTuesday
 email: CaptainTuesday@protonmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Awesome description for this magnificent site built with coffee, weed, git, github & jekyll
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  built with coffee, weed, git, github & jekyll
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 # social links
 twitter_username: wipedroot # DO NOT include the @ character, or else the build will fail!
 github_username:  wipedroot # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+remote_theme: zivong/jekyll-theme-hydure
+
+plugins:
+ - jekyll-remote-theme
