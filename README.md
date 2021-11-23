@@ -8,8 +8,11 @@ This journey is only possible thanks to the OSS community that has been holding 
 sources used for this project:
 
 https://github.com/jekyll
+
 https://github.com/wipedroot/github-pages-with-jekyll
+
 https://github.com/zivong/jekyll-theme-hydure
+
 https://github.com/mmistakes/minimal-mistakes
 
 ## This is but a small step, a humble beginning
