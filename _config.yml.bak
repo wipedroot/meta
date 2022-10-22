@@ -4,7 +4,7 @@ name: CaptainTuesday
 email: CaptainTuesday@protonmail.com
 
 description: > # this means to ignore newlines until "show_excerpts:"
-  built with coffee, chronic, corn, code & jekyll
+  built with coffee, weed, git, github & jekyll
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
@@ -12,7 +12,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 twitter_username: wipedroot # DO NOT include the @ character, or else the build will fail!
 github_username:  wipedroot # DO NOT include the @ character, or else the build will fail!
 
-remote_theme: jekyllt/jasper2.git
+remote_theme: zivong/jekyll-theme-hydure
 
 plugins:
  - jekyll-remote-theme
