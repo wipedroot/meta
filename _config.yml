@@ -12,7 +12,8 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 twitter_username: wipedroot # DO NOT include the @ character, or else the build will fail!
 github_username:  wipedroot # DO NOT include the @ character, or else the build will fail!
 
-remote_theme: jekyllt/jasper2.git
+remote_theme: Flexible-Jekyll
+#remote_theme: jekyllt/jasper2.git
 
 plugins:
  - jekyll-remote-theme
